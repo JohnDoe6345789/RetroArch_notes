@@ -1,4 +1,4 @@
 # RetroArch_notes
-Doing RetroArch hacking and trying to document here - this will take me some time to figure out. I don't like how hard it is to use out the box. I will start by improving it on x86_64 + Windows.
+Doing RetroArch hacking and trying to document here - this will take me some time to figure out. I don't like how hard it is to use out the box. I will start by improving it on x86_64 + Windows. I could do with some scripts to download some base roms and bios files too.
 
 1. Install RetroArch on Steam (best idea as it autoupdates and includes Steam overlay and Steam input improvements)
